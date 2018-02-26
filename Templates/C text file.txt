@@ -1,0 +1,25 @@
+#include<stdio.h>
+#include<malloc.h>
+#include<math.h>
+#include<string.h>
+#include<limits.h>
+#include<stdlib.h>
+#include<assert.h>
+#define forp(i,a,b) for( i=a;i<=b;i++)
+#define rep(i,n)    for( i=0;i<n;i++)
+#define ren(i,n)    for( i=n-1;i>=0;i--)
+#define forn(i,a,b) for( i=a;i>=b;i--)
+
+#define MOD 1000000007
+#define EPSILON 1e-9
+#define PI 3.14159265358979323846
+#define SIZE 100000
+
+typedef long long  ll;
+typedef unsigned long long ull;
+typedef long double  ldo;
+typedef double  db ;
+int main()
+{
+	return 0;
+}
